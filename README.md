@@ -106,7 +106,7 @@ bash run-student-kl.sh
 
 **Reproducibility**
 =====
-Download the [model](https://drive.google.com/file/d/1H5Mw-rrM6djYR4CxG2RarnApkcSqnMAD/view?usp=sharing) that is pretrained on the combination of soft weakly-labeled data and soft clean data. Execute the following command (set the path first):
+Download the [model](https://share.weiyun.com/j1hovV0E) that is pretrained on the combination of soft weakly-labeled data and soft clean data. Execute the following command (set the path first):
 
 ```
 bash run-student-kl-acl.sh
