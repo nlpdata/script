@@ -4,14 +4,21 @@ Improving Machine Reading Comprehension with Contextualized Commonsense Knowledg
 
 This repository maintains the code and resource for the above ACL'22 paper. Please contact script@dataset.org if you have any questions or suggestions.
 
-Paper: https://arxiv.org/abs/2009.05831v2 
+[Paper](https://aclanthology.org/2022.acl-long.598/):
 ```
-@inproceedings{sun2022improving,
-  title={Improving Machine Reading Comprehension with Contextualized Commonsense Knowledge},
-  author={Sun, Kai, Yu, Dian, Chen, Jianshu, and Yu, Dong and Cardie, Claire},
-  booktitle={Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics},
-  year={2022},
-  url={https://arxiv.org/abs/2009.05831v2}
+@inproceedings{sun-2022-improving,
+    title = "Improving Machine Reading Comprehension with Contextualized Commonsense Knowledge",
+    author = "Sun, Kai  and
+      Yu, Dian  and
+      Chen, Jianshu  and
+      Yu, Dong  and
+      Cardie, Claire",
+    booktitle = "Proceedings of the ACL 2022",
+    year = "2022",
+    address = "Dublin, Ireland",
+    url = "https://aclanthology.org/2022.acl-long.598",
+    pages = "8736--8747",
+}
 ```
 
 Files in this repository:
