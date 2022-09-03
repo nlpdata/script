@@ -26,10 +26,10 @@ Files in this repository:
 * ```data/en/en_b.json```: weakly-labeled English MRC instances constructed based on pattern B_c. 
 * ```data/en/en_i.json```: weakly-labeled English MRC instances constructed based on pattern I. 
 * ```data/en/en_o.json```: weakly-labeled English MRC instances constructed based on pattern O. 
-* ```data/cn/lb/cat_{lb1,lb2}.json```: samples of the weakly-labeled Chinese MRC instances constructed by B_c. 
-* ```data/cn/gb/cat_{gb1,gb2}.json```: samples of the weakly-labeled Chinese MRC instances constructed by B_n. 
-* ```data/cn/ib/cat_{ib1,ib2}.json```: samples of the weakly-labeled Chinese MRC instances constructed by I. 
-* ```data/cn/ct/cat_{ct1,ct2}.json```: samples of the weakly-labeled Chinese MRC instances constructed by O. 
+* ```data/cn/lb/cat_{lb_1,lb_2}.json```: samples of the weakly-labeled Chinese MRC instances constructed by B_c. 
+* ```data/cn/gb/cat_{gb_1,gb_2}.json```: samples of the weakly-labeled Chinese MRC instances constructed by B_n. 
+* ```data/cn/ib/cat_{ib_1,ib_2}.json```: samples of the weakly-labeled Chinese MRC instances constructed by I. 
+* ```data/cn/ct/cat_{ct_1,ct_2}.json```: samples of the weakly-labeled Chinese MRC instances constructed by O. 
 * ```data/c3_soft/c3_train_soft.json```: soft labels of the C3 training data used for fine-tuning student models in the multi-teacher paradigm. 
 
 
